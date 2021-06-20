@@ -3,6 +3,9 @@
 
 # In[37]:
 
+//you need to have sympy installed
+// you can install sympy as pip install sympy or conda install sympy
+
 
 from py_expression_eval import Parser
 from IPython.display import display, Math
